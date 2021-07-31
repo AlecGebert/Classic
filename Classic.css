@@ -1,0 +1,97 @@
+#wrapper {
+	width: 900px;
+	height: 1400px;
+	margin: auto;
+	background-image: url(https://oboi-ma.ru/f/product/ln10812.jpg);
+	opacity: 0.7;
+	padding-top: 35px;
+}
+#header {
+	width: 650px;
+	height: 120px;
+	background: #637782;
+	margin: auto;
+}
+#fine {
+	font-family: Georgia, serif;
+	font-weight: 500;
+	color: #ffffff;
+	text-align: center;
+	padding-top: 30px;
+}
+#club {
+	font-family: Georgia, serif;
+	font-weight: 500;
+	color: #eba721;
+	text-align: center;
+	margin-top: -10px;
+	font-size: 12px;
+}/*End of header*/
+#content {
+	width: 650px;
+	height: 1015px;
+	background: #ffffff;
+	margin: auto;
+	margin-top: -15px;
+	display: flex;
+	justify-content: space-around;
+}
+#left {
+	width: 185px;
+	height: 650px;
+}
+.littletitle {
+	font-style: italic;
+	color: #584e5e;
+	text-align: center;
+	padding-top: 30px;
+	border-bottom: 2px solid #b06e23;
+	padding-bottom: 10px;
+}
+.link {
+	color: #384559;
+	text-decoration: none;
+}
+li {
+	color: #384559;
+	font-size: 14px;
+	padding-top: 10px;
+	margin-left: 0px;
+}
+ul {
+    margin-left: -20px;
+    padding-bottom: 0px;
+}
+.moresmole {
+	font-size: 14px;
+	color: #384559;
+}
+.lefter {
+	font-size: 13px;
+	color: #384559;
+}
+.inside {
+	color: #ba5a14;
+	text-decoration: none;
+}
+#right {
+	width: 410px;
+	height: 1000px;
+
+}
+#footer {
+    width: 650px;
+    height: 100px;
+    margin: auto;
+    margin-top: -8px;
+    background: #637782;
+}
+.contact {
+	font-family: Georgia, serif;
+	font-size: 9px;
+	font-weight: 50;
+	color: #ffffff;
+	text-align: center;
+	padding: 10px 80px;
+	line-height: 20px;
+}
